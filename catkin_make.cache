@@ -1,0 +1,2 @@
+gamepack
+-DCATKIN_DEVEL_PREFIX=/home/ahmedlasheen/turtle_gp5/devel -DCMAKE_INSTALL_PREFIX=/home/ahmedlasheen/turtle_gp5/install -G Unix Makefiles
