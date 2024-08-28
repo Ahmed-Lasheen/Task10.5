@@ -1,0 +1,8 @@
+prefix=/home/ahmedlasheen/turtle_gp5/install
+
+Name: gamepack
+Description: Description of gamepack
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
